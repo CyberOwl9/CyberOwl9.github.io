@@ -23,11 +23,11 @@ section {
 }
 :root {
   --gray: #e4edf6;
-  --black-1: #0d1017;
+  --black-1: #495e57;
   --black-2: #1a1e29;
   --white: #ffffff;
   --green: #26643b;
-  --blue: #F4C430;
+  --blue: #f4ce14;
 }
 img {
   width: 100%;
